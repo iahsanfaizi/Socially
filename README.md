@@ -1,16 +1,18 @@
 # Socially
-A Beautiful Minimal Social Media App made in REACT JS
+A Beautiful 🌻 Minimal Social Media App made in REACT JS ✨
 
 We are using:
-HTML
-CSS
-JAVASCRIPT
-REACT
-REDUX
-USE-STATE
-USE-EFFECT
+HTML, 
+CSS, 
+JAVASCRIPT, 
+REACT, 
+REDUX, 
+USE-STATE, 
+USE-EFFECT, 
 MATERIAL-UI
 AND many other External Resources for this AMAZING buid
+
+This repo is powered by FIREBASE 🔥- (real time data fetching)
 
 To use this build use git clone
 
